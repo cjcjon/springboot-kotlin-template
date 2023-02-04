@@ -1,1 +1,1 @@
-rootProject.name = "social-multiplication"
+rootProject.name = "spring-project"
